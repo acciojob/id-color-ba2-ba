@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+#ylw{
+	background:yellow;
+	border_width:1px;
+	border_color:green;
+}
+#red{
+	background:red;
+	
+}
+
+#grn{
+	background:green;
+	border_width:1px;
+	border_color:yellow;
+}
