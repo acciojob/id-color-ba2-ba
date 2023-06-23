@@ -2,19 +2,19 @@
 #ylw{
 	background:yellow;
 	border:solid;
-	border_width:1px;
-	border_color:green;
+	border-width:1px;
+	border-color:green;
 }
 #red{
 	background:red;
 	border-style:solid;
-	border_width:1px;
-	border_color:green;
+	border-width:1px;
+	border-color:green;
 }
 
 #grn{
 	background:green;
 	border-style:solid;
-	border_width:1px;
-	border_color:yellow;
+	border-width:1px;
+	border-color:yellow;
 }
